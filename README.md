@@ -1,17 +1,18 @@
 # Pomelo Front-end Assignment
 
-## Installation
+## How To Run This Project
+
+- First, install all needed dependencies
 ```sh
   yarn
 ```
 
-## How to Run This Project
-
+- Then, build all necessary files
 ```sh
   yarn build
 ```
-and then 
 
+- Then, start the server 
 ```sh
   yarn start
 ```
