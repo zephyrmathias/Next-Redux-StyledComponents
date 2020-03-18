@@ -1,4 +1,4 @@
-# Pomelo Front-end Assignment
+# NY Times Example
 
 ## How To Run This Project
 
